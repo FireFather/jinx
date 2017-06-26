@@ -59,7 +59,7 @@ const bool hasPopCnt = false;
 
 const string engine = "Jinx";
 const string version = "1.0";
-const string author = "Kranium";
+const string author = "Christian Sommerfeld";
 const string name = engine + " " + version + " " + platform;
 
 #define maxThreads 32

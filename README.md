@@ -1,7 +1,7 @@
 # jinx 1.0
 chess engine based on Fridolin 2.0
 
--evauation tuning
+-code optimizations and eval tuning
 
 development testing indicates about a 146 elo imporovement
 

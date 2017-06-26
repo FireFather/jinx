@@ -17,3 +17,6 @@ jinx 040
 jinx 065 	21327.0/42147	+13817,=15020,-13310	50.60%	4.2	99.89%
 jinx 064					
 
+I've included the Visual Studio project files (jinx.vcxproj, etc)
+
+Norman Schmidt firefather@telenet.be 6/26/2017

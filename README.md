@@ -1,5 +1,7 @@
 # jinx 1.0
-chess engine based on Fridolin 2.0
+chess engine based on Fridolin 2.0 by Christian Sommerfeld
+
+https://sites.google.com/site/fridolinchess/home
 
 - code optimizations and eval tuning
 

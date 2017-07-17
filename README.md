@@ -5,7 +5,7 @@ https://sites.google.com/site/fridolinchess/home
 
 - code optimizations and eval tuning
 
-development testing indicates about a 146 elo imporovement
+development testing (ultra-fast/self-play) indicates about a 146 elo imporovement
 
 jinx 039	8786.5/16226	+7094,=3385,-5747	54.15%	28.9	100.00%
 jinx 000					
